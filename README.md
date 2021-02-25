@@ -8,9 +8,13 @@ Godot
 
 ## References
 https://opengameart.org/content/nes-shooter-music-5-tracks-3-jingles
+
 https://commons.wikimedia.org/wiki/File:Bubbles_in_space.jpg
+
 https://www.kenney.nl/assets/space-shooter-extension
+
 https://opengameart.org/content/explosion
+
 https://www.kenney.nl/assets/space-shooter-redux
 
 ## Future Developments
