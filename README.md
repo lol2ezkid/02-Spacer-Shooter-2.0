@@ -18,7 +18,7 @@ https://opengameart.org/content/explosion
 https://www.kenney.nl/assets/space-shooter-redux
 
 ## Future Developments
-Add more enemies, fix music loop, give more "juice".
+Add more enemies, fix music loop, give more "juice". Mess with player movement and make it better.
 
 ## Created by
 Ben Heitink
